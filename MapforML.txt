@@ -1,0 +1,20 @@
+ML Engineer Roadmap
+├── 1. Foundations
+│   └── Python
+|
+├── 2. Mathematics
+│   └── Basic to Mid-Advanced Math
+|
+├── 3. Data Science
+│   ├── NumPy
+│   └── Pandas
+|
+├── 4. Machine Learning
+│   └── Scikit-Learn
+|
+├── 5. Deep Learning
+│   └── PyTorch
+|
+└── 6. AI Engineering
+    ├── UI/UX
+    └── System Designing 
